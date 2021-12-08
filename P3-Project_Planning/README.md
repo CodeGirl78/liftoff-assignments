@@ -10,11 +10,12 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-[Registration/Login Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/RegistrationLogin%20Page.jpg
-[Entire Music Collection Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/EntireMusicCollectionPage.jpg
-[Add Albums Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/AddAlbumsPage.jpg
-[Delete Albums Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/DeleteAlbumsPage.jpg
-[Search Albums Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/SearchPage.jpg
+-[Registration/Login Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/RegistrationLogin%20Page.jpg
+-[Entire Music Collection Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/EntireMusicCollectionPage.jpg
+
+-[Add Albums Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/AddAlbumsPage.jpg
+-[Delete Albums Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/DeleteAlbumsPage.jpg
+-[Search Albums Page] https://github.com/CodeGirl78/liftoff-assignments/blob/master/P3-Project_Planning/SearchPage.jpg
 
 ### Project Tracker
 
