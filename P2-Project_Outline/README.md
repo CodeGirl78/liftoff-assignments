@@ -16,7 +16,7 @@ This project was motivated by my need for organization of my own music library i
 *	**User login**:  After creating their account, users will be able to log both in and out.
 *	**Add albums**:  Users will be able to add an album.
 *	**Delete albums**: Users will be able to delete an album.
-*	**Search**: Users will be able to search for albums based on the artist’s first name, last name, album title, or genre.
+*	**Search**: Users will be able to search for albums based on the artist’s first name, group name, last name, album title, or genre.
 
 ### Technologies
 *	C#/.Net
@@ -26,7 +26,7 @@ This project was motivated by my need for organization of my own music library i
 *	HTML
 
 ### What I'll Have to Learn
-In the course of building my project, I will need to learn either how to make a .csv file or if possible, how to save an excel sheet as a .csv file in order to import and add data via MySQL query.  I will also need to learn how to add search functionality.  I’m sure there are many other things that I will have to learn during the course of making this app and therefore, as I come across them, I will add them here.
+In the course of building my project, I will need to learn either how to make a .csv file or if possible, how to save an excel sheet as a .csv file in order to import and add data via MySQL query.  I will also need to learn how to add search functionality.
 
 ### Project Tracker
 https://trello.com/invite/b/fSrPuR5p/de3f577cf94c60d76124af21b03b7f6a/music-collection-library
